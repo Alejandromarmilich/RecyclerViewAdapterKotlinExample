@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="pais">Pais</string>
+    <string name="capital">Capital</string>
+</resources>

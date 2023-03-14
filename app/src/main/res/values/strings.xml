@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">RecyclerViewAdapterExample</string>
+    <string name="pais">Pais</string>
+    <string name="capital">Capital</string>
+</resources>
